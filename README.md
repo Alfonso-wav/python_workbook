@@ -1,3 +1,5 @@
+Compilation of python begginers exercises just do practice doing and doing :)
+
 # python_workbook
 by Özlem Ekici
 
